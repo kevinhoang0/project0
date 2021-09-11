@@ -13,8 +13,3 @@ public class DisplayArray
          System.out.println();
       else
       {
-         System.out.print(a[index] + " ");
-         printArray(a, index+1);
-      }
-   }
-}
