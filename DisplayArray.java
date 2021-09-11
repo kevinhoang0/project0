@@ -11,5 +11,4 @@ public class DisplayArray
    {
       if (index >= a.length)
          System.out.println();
-      else
-      {
+
